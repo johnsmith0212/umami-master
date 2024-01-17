@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  display: flex;
+}
+
+.value {
+  font-weight: 600;
+  margin-right: 4px;
+}

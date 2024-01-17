@@ -1,0 +1,1115 @@
+{
+  "label.access-code": [
+    {
+      "type": 0,
+      "value": "Access code"
+    }
+  ],
+  "label.actions": [
+    {
+      "type": 0,
+      "value": "Veiksmai"
+    }
+  ],
+  "label.activity-log": [
+    {
+      "type": 0,
+      "value": "Activity log"
+    }
+  ],
+  "label.add-website": [
+    {
+      "type": 0,
+      "value": "Pridėti svetainę"
+    }
+  ],
+  "label.admin": [
+    {
+      "type": 0,
+      "value": "Administratorius"
+    }
+  ],
+  "label.all": [
+    {
+      "type": 0,
+      "value": "Visi"
+    }
+  ],
+  "label.all-time": [
+    {
+      "type": 0,
+      "value": "Visas laikotarpis"
+    }
+  ],
+  "label.analytics": [
+    {
+      "type": 0,
+      "value": "Analytics"
+    }
+  ],
+  "label.average-visit-time": [
+    {
+      "type": 0,
+      "value": "Vidutinė vizito trukmė"
+    }
+  ],
+  "label.back": [
+    {
+      "type": 0,
+      "value": "Atgal"
+    }
+  ],
+  "label.bounce-rate": [
+    {
+      "type": 0,
+      "value": "Atmetimo rodiklis"
+    }
+  ],
+  "label.browsers": [
+    {
+      "type": 0,
+      "value": "Naršyklės"
+    }
+  ],
+  "label.cancel": [
+    {
+      "type": 0,
+      "value": "Atšaukti"
+    }
+  ],
+  "label.change-password": [
+    {
+      "type": 0,
+      "value": "Pakeisti slaptažodį"
+    }
+  ],
+  "label.cities": [
+    {
+      "type": 0,
+      "value": "Cities"
+    }
+  ],
+  "label.clear-all": [
+    {
+      "type": 0,
+      "value": "Clear all"
+    }
+  ],
+  "label.confirm": [
+    {
+      "type": 0,
+      "value": "Confirm"
+    }
+  ],
+  "label.confirm-password": [
+    {
+      "type": 0,
+      "value": "Patvirtinti slaptažodį"
+    }
+  ],
+  "label.continue": [
+    {
+      "type": 0,
+      "value": "Continue"
+    }
+  ],
+  "label.countries": [
+    {
+      "type": 0,
+      "value": "Šalys"
+    }
+  ],
+  "label.create-team": [
+    {
+      "type": 0,
+      "value": "Create team"
+    }
+  ],
+  "label.create-user": [
+    {
+      "type": 0,
+      "value": "Create user"
+    }
+  ],
+  "label.created": [
+    {
+      "type": 0,
+      "value": "Created"
+    }
+  ],
+  "label.current-password": [
+    {
+      "type": 0,
+      "value": "Dabartinis slaptažodis"
+    }
+  ],
+  "label.custom-range": [
+    {
+      "type": 0,
+      "value": "Pasirinktinis intervalas"
+    }
+  ],
+  "label.dashboard": [
+    {
+      "type": 0,
+      "value": "Švieslentė"
+    }
+  ],
+  "label.data": [
+    {
+      "type": 0,
+      "value": "Data"
+    }
+  ],
+  "label.date-range": [
+    {
+      "type": 0,
+      "value": "Laikotarpis"
+    }
+  ],
+  "label.default-date-range": [
+    {
+      "type": 0,
+      "value": "Numatytasis laikotarpis"
+    }
+  ],
+  "label.delete": [
+    {
+      "type": 0,
+      "value": "Ištrinti"
+    }
+  ],
+  "label.delete-team": [
+    {
+      "type": 0,
+      "value": "Delete team"
+    }
+  ],
+  "label.delete-user": [
+    {
+      "type": 0,
+      "value": "Delete user"
+    }
+  ],
+  "label.delete-website": [
+    {
+      "type": 0,
+      "value": "Ištrinti svetainę"
+    }
+  ],
+  "label.desktop": [
+    {
+      "type": 0,
+      "value": "Desktop"
+    }
+  ],
+  "label.details": [
+    {
+      "type": 0,
+      "value": "Details"
+    }
+  ],
+  "label.devices": [
+    {
+      "type": 0,
+      "value": "Įrenginiai"
+    }
+  ],
+  "label.dismiss": [
+    {
+      "type": 0,
+      "value": "Gerai"
+    }
+  ],
+  "label.domain": [
+    {
+      "type": 0,
+      "value": "Domenas"
+    }
+  ],
+  "label.edit": [
+    {
+      "type": 0,
+      "value": "Redaguoti"
+    }
+  ],
+  "label.edit-dashboard": [
+    {
+      "type": 0,
+      "value": "Edit dashboard"
+    }
+  ],
+  "label.enable-share-url": [
+    {
+      "type": 0,
+      "value": "Įjungti bendrinimą su nuoroda"
+    }
+  ],
+  "label.events": [
+    {
+      "type": 0,
+      "value": "Įvykiai"
+    }
+  ],
+  "label.filter-combined": [
+    {
+      "type": 0,
+      "value": "Kombinuoti"
+    }
+  ],
+  "label.filter-raw": [
+    {
+      "type": 0,
+      "value": "Neapdoroti"
+    }
+  ],
+  "label.join": [
+    {
+      "type": 0,
+      "value": "Join"
+    }
+  ],
+  "label.join-team": [
+    {
+      "type": 0,
+      "value": "Join team"
+    }
+  ],
+  "label.language": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
+  "label.languages": [
+    {
+      "type": 0,
+      "value": "Kalbos"
+    }
+  ],
+  "label.laptop": [
+    {
+      "type": 0,
+      "value": "Laptop"
+    }
+  ],
+  "label.last-days": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Paskutinės "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " dienų"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Paskutinė diena"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Paskutinės "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " dienos"
+            }
+          ]
+        },
+        "zero": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Paskutinės "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " dienų"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "x"
+    }
+  ],
+  "label.last-hours": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Paskutinės "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " valandų"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Paskutinė "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " valanda"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Paskutinės "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " valandos"
+            }
+          ]
+        },
+        "zero": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Paskutinės "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " valandų"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "x"
+    }
+  ],
+  "label.leave": [
+    {
+      "type": 0,
+      "value": "Leave"
+    }
+  ],
+  "label.leave-team": [
+    {
+      "type": 0,
+      "value": "Leave team"
+    }
+  ],
+  "label.login": [
+    {
+      "type": 0,
+      "value": "Prisijungti"
+    }
+  ],
+  "label.logout": [
+    {
+      "type": 0,
+      "value": "Atsijungti"
+    }
+  ],
+  "label.members": [
+    {
+      "type": 0,
+      "value": "Members"
+    }
+  ],
+  "label.mobile": [
+    {
+      "type": 0,
+      "value": "Mobilusis"
+    }
+  ],
+  "label.more": [
+    {
+      "type": 0,
+      "value": "Daugiau"
+    }
+  ],
+  "label.name": [
+    {
+      "type": 0,
+      "value": "Pavadinimas"
+    }
+  ],
+  "label.new-password": [
+    {
+      "type": 0,
+      "value": "Naujas slaptažodis"
+    }
+  ],
+  "label.none": [
+    {
+      "type": 0,
+      "value": "None"
+    }
+  ],
+  "label.operating-systems": [
+    {
+      "type": 0,
+      "value": "Operacinės sistemos"
+    }
+  ],
+  "label.owner": [
+    {
+      "type": 0,
+      "value": "Savininkas"
+    }
+  ],
+  "label.page-views": [
+    {
+      "type": 0,
+      "value": "Puslapių peržiūros"
+    }
+  ],
+  "label.pages": [
+    {
+      "type": 0,
+      "value": "Puslapiai"
+    }
+  ],
+  "label.password": [
+    {
+      "type": 0,
+      "value": "Slaptažodis"
+    }
+  ],
+  "label.powered-by": [
+    {
+      "type": 0,
+      "value": "Powered by "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "label.profile": [
+    {
+      "type": 0,
+      "value": "Profilis"
+    }
+  ],
+  "label.queries": [
+    {
+      "type": 0,
+      "value": "Queries"
+    }
+  ],
+  "label.query-parameters": [
+    {
+      "type": 0,
+      "value": "Query parameters"
+    }
+  ],
+  "label.realtime": [
+    {
+      "type": 0,
+      "value": "Realiuoju laiku"
+    }
+  ],
+  "label.referrers": [
+    {
+      "type": 0,
+      "value": "Referrers"
+    }
+  ],
+  "label.refresh": [
+    {
+      "type": 0,
+      "value": "Atnaujinti"
+    }
+  ],
+  "label.regenerate": [
+    {
+      "type": 0,
+      "value": "Regenerate"
+    }
+  ],
+  "label.regions": [
+    {
+      "type": 0,
+      "value": "Regions"
+    }
+  ],
+  "label.remove": [
+    {
+      "type": 0,
+      "value": "Remove"
+    }
+  ],
+  "label.required": [
+    {
+      "type": 0,
+      "value": "Reikalinga"
+    }
+  ],
+  "label.reset": [
+    {
+      "type": 0,
+      "value": "Atstatyti"
+    }
+  ],
+  "label.reset-website": [
+    {
+      "type": 0,
+      "value": "Atstatyti statistikos duomenis"
+    }
+  ],
+  "label.role": [
+    {
+      "type": 0,
+      "value": "Role"
+    }
+  ],
+  "label.save": [
+    {
+      "type": 0,
+      "value": "Išsaugoti"
+    }
+  ],
+  "label.screens": [
+    {
+      "type": 0,
+      "value": "Screens"
+    }
+  ],
+  "label.select-website": [
+    {
+      "type": 0,
+      "value": "Select website"
+    }
+  ],
+  "label.sessions": [
+    {
+      "type": 0,
+      "value": "Sessions"
+    }
+  ],
+  "label.settings": [
+    {
+      "type": 0,
+      "value": "Nustatymai"
+    }
+  ],
+  "label.share-url": [
+    {
+      "type": 0,
+      "value": "Pasidalinti nuoroda"
+    }
+  ],
+  "label.single-day": [
+    {
+      "type": 0,
+      "value": "Viena diena"
+    }
+  ],
+  "label.tablet": [
+    {
+      "type": 0,
+      "value": "Planšetė"
+    }
+  ],
+  "label.team": [
+    {
+      "type": 0,
+      "value": "Team"
+    }
+  ],
+  "label.team-guest": [
+    {
+      "type": 0,
+      "value": "Team guest"
+    }
+  ],
+  "label.team-id": [
+    {
+      "type": 0,
+      "value": "Team ID"
+    }
+  ],
+  "label.team-member": [
+    {
+      "type": 0,
+      "value": "Team member"
+    }
+  ],
+  "label.team-owner": [
+    {
+      "type": 0,
+      "value": "Team owner"
+    }
+  ],
+  "label.teams": [
+    {
+      "type": 0,
+      "value": "Teams"
+    }
+  ],
+  "label.theme": [
+    {
+      "type": 0,
+      "value": "Theme"
+    }
+  ],
+  "label.this-month": [
+    {
+      "type": 0,
+      "value": "Šis mėnuo"
+    }
+  ],
+  "label.this-week": [
+    {
+      "type": 0,
+      "value": "Ši savaitė"
+    }
+  ],
+  "label.this-year": [
+    {
+      "type": 0,
+      "value": "Šie metai"
+    }
+  ],
+  "label.timezone": [
+    {
+      "type": 0,
+      "value": "Laiko zona"
+    }
+  ],
+  "label.title": [
+    {
+      "type": 0,
+      "value": "Title"
+    }
+  ],
+  "label.today": [
+    {
+      "type": 0,
+      "value": "Šiandien"
+    }
+  ],
+  "label.toggle-charts": [
+    {
+      "type": 0,
+      "value": "Rodyti / slėpti grafikus"
+    }
+  ],
+  "label.tracking-code": [
+    {
+      "type": 0,
+      "value": "Sekimo kodas"
+    }
+  ],
+  "label.unique-visitors": [
+    {
+      "type": 0,
+      "value": "Unikalūs lankytojai"
+    }
+  ],
+  "label.unknown": [
+    {
+      "type": 0,
+      "value": "Nežinoma"
+    }
+  ],
+  "label.user": [
+    {
+      "type": 0,
+      "value": "User"
+    }
+  ],
+  "label.username": [
+    {
+      "type": 0,
+      "value": "Vartotojo vardas"
+    }
+  ],
+  "label.users": [
+    {
+      "type": 0,
+      "value": "Users"
+    }
+  ],
+  "label.view": [
+    {
+      "type": 0,
+      "value": "View"
+    }
+  ],
+  "label.view-details": [
+    {
+      "type": 0,
+      "value": "Peržiūrėti detaliau"
+    }
+  ],
+  "label.views": [
+    {
+      "type": 0,
+      "value": "Peržiūros"
+    }
+  ],
+  "label.visitors": [
+    {
+      "type": 0,
+      "value": "Lankytojai"
+    }
+  ],
+  "label.website-id": [
+    {
+      "type": 0,
+      "value": "Website ID"
+    }
+  ],
+  "label.websites": [
+    {
+      "type": 0,
+      "value": "Svetainės"
+    }
+  ],
+  "label.yesterday": [
+    {
+      "type": 0,
+      "value": "Yesterday"
+    }
+  ],
+  "message.active-users": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " aktyvių vartotojų"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " aktyvus vartotojas"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " aktyvūs vartotojai"
+            }
+          ]
+        },
+        "zero": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " aktyvių vartotojų"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "x"
+    }
+  ],
+  "message.confirm-delete": [
+    {
+      "type": 0,
+      "value": "Ar esate tikri, jog norite ištrinti svetainę "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": "?"
+    }
+  ],
+  "message.confirm-leave": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to leave "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": "?"
+    }
+  ],
+  "message.confirm-reset": [
+    {
+      "type": 0,
+      "value": "Are esate tikri, jog norite atstatyti svetainės "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": " statistikos duomenis?"
+    }
+  ],
+  "message.delete-website": [
+    {
+      "type": 0,
+      "value": "Ištrinti svetainę"
+    }
+  ],
+  "message.delete-website-warning": [
+    {
+      "type": 0,
+      "value": "Visi susiję duomenys taip pat bus ištrinti."
+    }
+  ],
+  "message.error": [
+    {
+      "type": 0,
+      "value": "Kažkas įvyko ne taip."
+    }
+  ],
+  "message.event-log": [
+    {
+      "type": 1,
+      "value": "event"
+    },
+    {
+      "type": 0,
+      "value": " on "
+    },
+    {
+      "type": 1,
+      "value": "url"
+    }
+  ],
+  "message.go-to-settings": [
+    {
+      "type": 0,
+      "value": "Eiti į nustatymus"
+    }
+  ],
+  "message.incorrect-username-password": [
+    {
+      "type": 0,
+      "value": "Neteisingas vartotojo vardas/slaptažodis."
+    }
+  ],
+  "message.invalid-domain": [
+    {
+      "type": 0,
+      "value": "Klaidingas domenas"
+    }
+  ],
+  "message.min-password-length": [
+    {
+      "type": 0,
+      "value": "Minimum length of "
+    },
+    {
+      "type": 1,
+      "value": "n"
+    },
+    {
+      "type": 0,
+      "value": " characters"
+    }
+  ],
+  "message.no-data-available": [
+    {
+      "type": 0,
+      "value": "Nėra jokių duomenų."
+    }
+  ],
+  "message.no-match-password": [
+    {
+      "type": 0,
+      "value": "Slaptažodžiai nesutampa"
+    }
+  ],
+  "message.no-teams": [
+    {
+      "type": 0,
+      "value": "You have not created any teams."
+    }
+  ],
+  "message.no-users": [
+    {
+      "type": 0,
+      "value": "There are no users."
+    }
+  ],
+  "message.page-not-found": [
+    {
+      "type": 0,
+      "value": "Puslapis nerastas."
+    }
+  ],
+  "message.reset-website": [
+    {
+      "type": 0,
+      "value": "Atstatyti statistikos duomenis"
+    }
+  ],
+  "message.reset-website-warning": [
+    {
+      "type": 0,
+      "value": "Visi šios svetainės statistikos duomenys bus ištrinti, bet sekimo kodas išliks nepaliestas."
+    }
+  ],
+  "message.saved": [
+    {
+      "type": 0,
+      "value": "Sėkmingai išsaugota."
+    }
+  ],
+  "message.share-url": [
+    {
+      "type": 0,
+      "value": "Tai yra viešai prieinama "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": " nuoroda (URL)."
+    }
+  ],
+  "message.team-already-member": [
+    {
+      "type": 0,
+      "value": "You are already a member of the team."
+    }
+  ],
+  "message.team-not-found": [
+    {
+      "type": 0,
+      "value": "Team not found."
+    }
+  ],
+  "message.tracking-code": [
+    {
+      "type": 0,
+      "value": "Sekimo kodas"
+    }
+  ],
+  "message.user-deleted": [
+    {
+      "type": 0,
+      "value": "User deleted."
+    }
+  ],
+  "message.visitor-log": [
+    {
+      "type": 0,
+      "value": "Lankytojas iš "
+    },
+    {
+      "type": 1,
+      "value": "country"
+    },
+    {
+      "type": 0,
+      "value": ", naudojantis "
+    },
+    {
+      "type": 1,
+      "value": "browser"
+    },
+    {
+      "type": 0,
+      "value": " sistemoje "
+    },
+    {
+      "type": 1,
+      "value": "os"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "device"
+    }
+  ],
+  "messages.no-team-websites": [
+    {
+      "type": 0,
+      "value": "This team does not have any websites."
+    }
+  ],
+  "messages.no-websites-configured": [
+    {
+      "type": 0,
+      "value": "Jūs nesate susikonfiguravę jokių svetainių."
+    }
+  ],
+  "messages.team-websites-info": [
+    {
+      "type": 0,
+      "value": "Websites can be viewed by anyone on the team."
+    }
+  ]
+}

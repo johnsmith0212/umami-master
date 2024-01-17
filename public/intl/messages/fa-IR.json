@@ -1,0 +1,990 @@
+{
+  "label.access-code": [
+    {
+      "type": 0,
+      "value": "Access code"
+    }
+  ],
+  "label.actions": [
+    {
+      "type": 0,
+      "value": "اقدامات"
+    }
+  ],
+  "label.activity-log": [
+    {
+      "type": 0,
+      "value": "Activity log"
+    }
+  ],
+  "label.add-website": [
+    {
+      "type": 0,
+      "value": "افزودن وب‌سایت"
+    }
+  ],
+  "label.admin": [
+    {
+      "type": 0,
+      "value": "مدیر"
+    }
+  ],
+  "label.all": [
+    {
+      "type": 0,
+      "value": "همه"
+    }
+  ],
+  "label.all-time": [
+    {
+      "type": 0,
+      "value": "همه زمان"
+    }
+  ],
+  "label.analytics": [
+    {
+      "type": 0,
+      "value": "Analytics"
+    }
+  ],
+  "label.average-visit-time": [
+    {
+      "type": 0,
+      "value": "میانگین زمان بازدید"
+    }
+  ],
+  "label.back": [
+    {
+      "type": 0,
+      "value": "برگشت"
+    }
+  ],
+  "label.bounce-rate": [
+    {
+      "type": 0,
+      "value": "نرخ Bounce"
+    }
+  ],
+  "label.browsers": [
+    {
+      "type": 0,
+      "value": "مروگرها"
+    }
+  ],
+  "label.cancel": [
+    {
+      "type": 0,
+      "value": "انصراف"
+    }
+  ],
+  "label.change-password": [
+    {
+      "type": 0,
+      "value": "تغییر رمز"
+    }
+  ],
+  "label.cities": [
+    {
+      "type": 0,
+      "value": "Cities"
+    }
+  ],
+  "label.clear-all": [
+    {
+      "type": 0,
+      "value": "Clear all"
+    }
+  ],
+  "label.confirm": [
+    {
+      "type": 0,
+      "value": "Confirm"
+    }
+  ],
+  "label.confirm-password": [
+    {
+      "type": 0,
+      "value": "تایید رمز"
+    }
+  ],
+  "label.continue": [
+    {
+      "type": 0,
+      "value": "Continue"
+    }
+  ],
+  "label.countries": [
+    {
+      "type": 0,
+      "value": "کشورها"
+    }
+  ],
+  "label.create-team": [
+    {
+      "type": 0,
+      "value": "Create team"
+    }
+  ],
+  "label.create-user": [
+    {
+      "type": 0,
+      "value": "Create user"
+    }
+  ],
+  "label.created": [
+    {
+      "type": 0,
+      "value": "Created"
+    }
+  ],
+  "label.current-password": [
+    {
+      "type": 0,
+      "value": "رمز فعلی"
+    }
+  ],
+  "label.custom-range": [
+    {
+      "type": 0,
+      "value": "محدوده‌ی دلخواه"
+    }
+  ],
+  "label.dashboard": [
+    {
+      "type": 0,
+      "value": "داشبورد"
+    }
+  ],
+  "label.data": [
+    {
+      "type": 0,
+      "value": "Data"
+    }
+  ],
+  "label.date-range": [
+    {
+      "type": 0,
+      "value": "محدوده‌ی تاریخ"
+    }
+  ],
+  "label.default-date-range": [
+    {
+      "type": 0,
+      "value": "محدوده‌ی پیشفرض تاریخ"
+    }
+  ],
+  "label.delete": [
+    {
+      "type": 0,
+      "value": "حذف"
+    }
+  ],
+  "label.delete-team": [
+    {
+      "type": 0,
+      "value": "Delete team"
+    }
+  ],
+  "label.delete-user": [
+    {
+      "type": 0,
+      "value": "Delete user"
+    }
+  ],
+  "label.delete-website": [
+    {
+      "type": 0,
+      "value": "حذف وب‌سایت"
+    }
+  ],
+  "label.desktop": [
+    {
+      "type": 0,
+      "value": "دسکتاپ"
+    }
+  ],
+  "label.details": [
+    {
+      "type": 0,
+      "value": "Details"
+    }
+  ],
+  "label.devices": [
+    {
+      "type": 0,
+      "value": "دستگاه‌ها"
+    }
+  ],
+  "label.dismiss": [
+    {
+      "type": 0,
+      "value": "رد کردن"
+    }
+  ],
+  "label.domain": [
+    {
+      "type": 0,
+      "value": "دامنه"
+    }
+  ],
+  "label.edit": [
+    {
+      "type": 0,
+      "value": "ویرایش"
+    }
+  ],
+  "label.edit-dashboard": [
+    {
+      "type": 0,
+      "value": "Edit dashboard"
+    }
+  ],
+  "label.enable-share-url": [
+    {
+      "type": 0,
+      "value": "فعال کردن اشتراک گذاری URL"
+    }
+  ],
+  "label.events": [
+    {
+      "type": 0,
+      "value": "رویدادها"
+    }
+  ],
+  "label.filter-combined": [
+    {
+      "type": 0,
+      "value": "ترکیب شده"
+    }
+  ],
+  "label.filter-raw": [
+    {
+      "type": 0,
+      "value": "خام"
+    }
+  ],
+  "label.join": [
+    {
+      "type": 0,
+      "value": "Join"
+    }
+  ],
+  "label.join-team": [
+    {
+      "type": 0,
+      "value": "Join team"
+    }
+  ],
+  "label.language": [
+    {
+      "type": 0,
+      "value": "زبان"
+    }
+  ],
+  "label.languages": [
+    {
+      "type": 0,
+      "value": "زبان‌ها"
+    }
+  ],
+  "label.laptop": [
+    {
+      "type": 0,
+      "value": "لپ‌تاپ"
+    }
+  ],
+  "label.last-days": [
+    {
+      "type": 0,
+      "value": "لیست "
+    },
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": " روز گذشته"
+    }
+  ],
+  "label.last-hours": [
+    {
+      "type": 0,
+      "value": "لیست "
+    },
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": " ساعت گذشته"
+    }
+  ],
+  "label.leave": [
+    {
+      "type": 0,
+      "value": "Leave"
+    }
+  ],
+  "label.leave-team": [
+    {
+      "type": 0,
+      "value": "Leave team"
+    }
+  ],
+  "label.login": [
+    {
+      "type": 0,
+      "value": "ورود"
+    }
+  ],
+  "label.logout": [
+    {
+      "type": 0,
+      "value": "خروج"
+    }
+  ],
+  "label.members": [
+    {
+      "type": 0,
+      "value": "Members"
+    }
+  ],
+  "label.mobile": [
+    {
+      "type": 0,
+      "value": "موبایل"
+    }
+  ],
+  "label.more": [
+    {
+      "type": 0,
+      "value": "بیشتر"
+    }
+  ],
+  "label.name": [
+    {
+      "type": 0,
+      "value": "نام"
+    }
+  ],
+  "label.new-password": [
+    {
+      "type": 0,
+      "value": "رمز جدید"
+    }
+  ],
+  "label.none": [
+    {
+      "type": 0,
+      "value": "None"
+    }
+  ],
+  "label.operating-systems": [
+    {
+      "type": 0,
+      "value": "سیستم‌عامل‌ها"
+    }
+  ],
+  "label.owner": [
+    {
+      "type": 0,
+      "value": "ایجاد شده توسط"
+    }
+  ],
+  "label.page-views": [
+    {
+      "type": 0,
+      "value": "بازدید صفحه"
+    }
+  ],
+  "label.pages": [
+    {
+      "type": 0,
+      "value": "صفحه‌ها"
+    }
+  ],
+  "label.password": [
+    {
+      "type": 0,
+      "value": "رمز"
+    }
+  ],
+  "label.powered-by": [
+    {
+      "type": 0,
+      "value": "قدرت گرفته توسط "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "label.profile": [
+    {
+      "type": 0,
+      "value": "پروفایل"
+    }
+  ],
+  "label.queries": [
+    {
+      "type": 0,
+      "value": "Queries"
+    }
+  ],
+  "label.query-parameters": [
+    {
+      "type": 0,
+      "value": "Query parameters"
+    }
+  ],
+  "label.realtime": [
+    {
+      "type": 0,
+      "value": "آمار زنده"
+    }
+  ],
+  "label.referrers": [
+    {
+      "type": 0,
+      "value": "ارجاع دهندگان"
+    }
+  ],
+  "label.refresh": [
+    {
+      "type": 0,
+      "value": "به‌روزرسانی"
+    }
+  ],
+  "label.regenerate": [
+    {
+      "type": 0,
+      "value": "Regenerate"
+    }
+  ],
+  "label.regions": [
+    {
+      "type": 0,
+      "value": "Regions"
+    }
+  ],
+  "label.remove": [
+    {
+      "type": 0,
+      "value": "Remove"
+    }
+  ],
+  "label.required": [
+    {
+      "type": 0,
+      "value": "ضروری"
+    }
+  ],
+  "label.reset": [
+    {
+      "type": 0,
+      "value": "بازنشانی"
+    }
+  ],
+  "label.reset-website": [
+    {
+      "type": 0,
+      "value": "بازنشانی آمار"
+    }
+  ],
+  "label.role": [
+    {
+      "type": 0,
+      "value": "Role"
+    }
+  ],
+  "label.save": [
+    {
+      "type": 0,
+      "value": "ذخیره"
+    }
+  ],
+  "label.screens": [
+    {
+      "type": 0,
+      "value": "Screens"
+    }
+  ],
+  "label.select-website": [
+    {
+      "type": 0,
+      "value": "Select website"
+    }
+  ],
+  "label.sessions": [
+    {
+      "type": 0,
+      "value": "Sessions"
+    }
+  ],
+  "label.settings": [
+    {
+      "type": 0,
+      "value": "تنظیمات"
+    }
+  ],
+  "label.share-url": [
+    {
+      "type": 0,
+      "value": "به اشتراک گذاری URL"
+    }
+  ],
+  "label.single-day": [
+    {
+      "type": 0,
+      "value": "یک روز"
+    }
+  ],
+  "label.tablet": [
+    {
+      "type": 0,
+      "value": "تبلت"
+    }
+  ],
+  "label.team": [
+    {
+      "type": 0,
+      "value": "Team"
+    }
+  ],
+  "label.team-guest": [
+    {
+      "type": 0,
+      "value": "Team guest"
+    }
+  ],
+  "label.team-id": [
+    {
+      "type": 0,
+      "value": "Team ID"
+    }
+  ],
+  "label.team-member": [
+    {
+      "type": 0,
+      "value": "Team member"
+    }
+  ],
+  "label.team-owner": [
+    {
+      "type": 0,
+      "value": "Team owner"
+    }
+  ],
+  "label.teams": [
+    {
+      "type": 0,
+      "value": "Teams"
+    }
+  ],
+  "label.theme": [
+    {
+      "type": 0,
+      "value": "تم"
+    }
+  ],
+  "label.this-month": [
+    {
+      "type": 0,
+      "value": "این ماه"
+    }
+  ],
+  "label.this-week": [
+    {
+      "type": 0,
+      "value": "این هفته"
+    }
+  ],
+  "label.this-year": [
+    {
+      "type": 0,
+      "value": "امسال"
+    }
+  ],
+  "label.timezone": [
+    {
+      "type": 0,
+      "value": "منطقه‌ی زمانی"
+    }
+  ],
+  "label.title": [
+    {
+      "type": 0,
+      "value": "Title"
+    }
+  ],
+  "label.today": [
+    {
+      "type": 0,
+      "value": "امروز"
+    }
+  ],
+  "label.toggle-charts": [
+    {
+      "type": 0,
+      "value": "Toggle charts"
+    }
+  ],
+  "label.tracking-code": [
+    {
+      "type": 0,
+      "value": "کد رهگیری"
+    }
+  ],
+  "label.unique-visitors": [
+    {
+      "type": 0,
+      "value": "بازدیدکننده‌های یکتا"
+    }
+  ],
+  "label.unknown": [
+    {
+      "type": 0,
+      "value": "ناشناخته"
+    }
+  ],
+  "label.user": [
+    {
+      "type": 0,
+      "value": "User"
+    }
+  ],
+  "label.username": [
+    {
+      "type": 0,
+      "value": "نام کاربری"
+    }
+  ],
+  "label.users": [
+    {
+      "type": 0,
+      "value": "Users"
+    }
+  ],
+  "label.view": [
+    {
+      "type": 0,
+      "value": "View"
+    }
+  ],
+  "label.view-details": [
+    {
+      "type": 0,
+      "value": "مشاهده‌ی جزئیات"
+    }
+  ],
+  "label.views": [
+    {
+      "type": 0,
+      "value": "بازدید"
+    }
+  ],
+  "label.visitors": [
+    {
+      "type": 0,
+      "value": "بازدیدکننده"
+    }
+  ],
+  "label.website-id": [
+    {
+      "type": 0,
+      "value": "Website ID"
+    }
+  ],
+  "label.websites": [
+    {
+      "type": 0,
+      "value": "وب‌سایت‌ها"
+    }
+  ],
+  "label.yesterday": [
+    {
+      "type": 0,
+      "value": "Yesterday"
+    }
+  ],
+  "message.active-users": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": " هم اکنون "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "یک"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "از میان"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "x"
+    }
+  ],
+  "message.confirm-delete": [
+    {
+      "type": 0,
+      "value": "آیا مطمئن هستید می‌خواهید "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": " را حذف کنید?"
+    }
+  ],
+  "message.confirm-leave": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to leave "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": "?"
+    }
+  ],
+  "message.confirm-reset": [
+    {
+      "type": 0,
+      "value": "آیا از بازنشانی آمار "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": " مطمئن هستید?"
+    }
+  ],
+  "message.delete-website": [
+    {
+      "type": 0,
+      "value": "حذف وب‌سایت"
+    }
+  ],
+  "message.delete-website-warning": [
+    {
+      "type": 0,
+      "value": "همه‌ی داده‌های مرتبط هم حذف خواهد شد."
+    }
+  ],
+  "message.error": [
+    {
+      "type": 0,
+      "value": "مشکلی پیش آمده است."
+    }
+  ],
+  "message.event-log": [
+    {
+      "type": 1,
+      "value": "event"
+    },
+    {
+      "type": 0,
+      "value": " on "
+    },
+    {
+      "type": 1,
+      "value": "url"
+    }
+  ],
+  "message.go-to-settings": [
+    {
+      "type": 0,
+      "value": "رفتن به تنظیمات"
+    }
+  ],
+  "message.incorrect-username-password": [
+    {
+      "type": 0,
+      "value": "نام کاربری / رمز نادرست است."
+    }
+  ],
+  "message.invalid-domain": [
+    {
+      "type": 0,
+      "value": "دامنه‌ی نامعتبر"
+    }
+  ],
+  "message.min-password-length": [
+    {
+      "type": 0,
+      "value": "Minimum length of "
+    },
+    {
+      "type": 1,
+      "value": "n"
+    },
+    {
+      "type": 0,
+      "value": " characters"
+    }
+  ],
+  "message.no-data-available": [
+    {
+      "type": 0,
+      "value": "اطلاعاتی موجود نیست."
+    }
+  ],
+  "message.no-match-password": [
+    {
+      "type": 0,
+      "value": "رمزها یکسان نیستند"
+    }
+  ],
+  "message.no-teams": [
+    {
+      "type": 0,
+      "value": "You have not created any teams."
+    }
+  ],
+  "message.no-users": [
+    {
+      "type": 0,
+      "value": "There are no users."
+    }
+  ],
+  "message.page-not-found": [
+    {
+      "type": 0,
+      "value": "صفحه یافت نشد."
+    }
+  ],
+  "message.reset-website": [
+    {
+      "type": 0,
+      "value": "بازنشانی آمار"
+    }
+  ],
+  "message.reset-website-warning": [
+    {
+      "type": 0,
+      "value": "تمامی آمارهای این وب‌سایت حذف خواهد شد اما tracking code بدون تغییر باقی می‌ماند."
+    }
+  ],
+  "message.saved": [
+    {
+      "type": 0,
+      "value": "با موفقیت ذخیره شد."
+    }
+  ],
+  "message.share-url": [
+    {
+      "type": 0,
+      "value": "این URL به اشتراک گذاشته شده عمومی برای "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": " است."
+    }
+  ],
+  "message.team-already-member": [
+    {
+      "type": 0,
+      "value": "You are already a member of the team."
+    }
+  ],
+  "message.team-not-found": [
+    {
+      "type": 0,
+      "value": "Team not found."
+    }
+  ],
+  "message.tracking-code": [
+    {
+      "type": 0,
+      "value": "کد رهگیری"
+    }
+  ],
+  "message.user-deleted": [
+    {
+      "type": 0,
+      "value": "User deleted."
+    }
+  ],
+  "message.visitor-log": [
+    {
+      "type": 0,
+      "value": "بازدیدکننده از کشور "
+    },
+    {
+      "type": 1,
+      "value": "country"
+    },
+    {
+      "type": 0,
+      "value": " با مروگر "
+    },
+    {
+      "type": 1,
+      "value": "browser"
+    },
+    {
+      "type": 0,
+      "value": " در "
+    },
+    {
+      "type": 1,
+      "value": "os"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "device"
+    }
+  ],
+  "messages.no-team-websites": [
+    {
+      "type": 0,
+      "value": "This team does not have any websites."
+    }
+  ],
+  "messages.no-websites-configured": [
+    {
+      "type": 0,
+      "value": "شما هیچ وب‌سایتی را پیکربندی نکرده‌اید."
+    }
+  ],
+  "messages.team-websites-info": [
+    {
+      "type": 0,
+      "value": "Websites can be viewed by anyone on the team."
+    }
+  ]
+}

@@ -1,0 +1,966 @@
+{
+  "label.access-code": [
+    {
+      "type": 0,
+      "value": "Access code"
+    }
+  ],
+  "label.actions": [
+    {
+      "type": 0,
+      "value": "액션"
+    }
+  ],
+  "label.activity-log": [
+    {
+      "type": 0,
+      "value": "Activity log"
+    }
+  ],
+  "label.add-website": [
+    {
+      "type": 0,
+      "value": "웹사이트 추가"
+    }
+  ],
+  "label.admin": [
+    {
+      "type": 0,
+      "value": "관리자"
+    }
+  ],
+  "label.all": [
+    {
+      "type": 0,
+      "value": "전체"
+    }
+  ],
+  "label.all-time": [
+    {
+      "type": 0,
+      "value": "All time"
+    }
+  ],
+  "label.analytics": [
+    {
+      "type": 0,
+      "value": "Analytics"
+    }
+  ],
+  "label.average-visit-time": [
+    {
+      "type": 0,
+      "value": "평균 방문 시간"
+    }
+  ],
+  "label.back": [
+    {
+      "type": 0,
+      "value": "뒤로"
+    }
+  ],
+  "label.bounce-rate": [
+    {
+      "type": 0,
+      "value": "이탈률"
+    }
+  ],
+  "label.browsers": [
+    {
+      "type": 0,
+      "value": "브라우저"
+    }
+  ],
+  "label.cancel": [
+    {
+      "type": 0,
+      "value": "취소"
+    }
+  ],
+  "label.change-password": [
+    {
+      "type": 0,
+      "value": "비밀번호 변경"
+    }
+  ],
+  "label.cities": [
+    {
+      "type": 0,
+      "value": "Cities"
+    }
+  ],
+  "label.clear-all": [
+    {
+      "type": 0,
+      "value": "Clear all"
+    }
+  ],
+  "label.confirm": [
+    {
+      "type": 0,
+      "value": "Confirm"
+    }
+  ],
+  "label.confirm-password": [
+    {
+      "type": 0,
+      "value": "비밀번호 확인"
+    }
+  ],
+  "label.continue": [
+    {
+      "type": 0,
+      "value": "Continue"
+    }
+  ],
+  "label.countries": [
+    {
+      "type": 0,
+      "value": "국가"
+    }
+  ],
+  "label.create-team": [
+    {
+      "type": 0,
+      "value": "Create team"
+    }
+  ],
+  "label.create-user": [
+    {
+      "type": 0,
+      "value": "Create user"
+    }
+  ],
+  "label.created": [
+    {
+      "type": 0,
+      "value": "Created"
+    }
+  ],
+  "label.current-password": [
+    {
+      "type": 0,
+      "value": "현재 비밀번호"
+    }
+  ],
+  "label.custom-range": [
+    {
+      "type": 0,
+      "value": "범위 지정"
+    }
+  ],
+  "label.dashboard": [
+    {
+      "type": 0,
+      "value": "대시보드"
+    }
+  ],
+  "label.data": [
+    {
+      "type": 0,
+      "value": "Data"
+    }
+  ],
+  "label.date-range": [
+    {
+      "type": 0,
+      "value": "날짜 범위"
+    }
+  ],
+  "label.default-date-range": [
+    {
+      "type": 0,
+      "value": "기본 날짜 범위"
+    }
+  ],
+  "label.delete": [
+    {
+      "type": 0,
+      "value": "삭제"
+    }
+  ],
+  "label.delete-team": [
+    {
+      "type": 0,
+      "value": "Delete team"
+    }
+  ],
+  "label.delete-user": [
+    {
+      "type": 0,
+      "value": "Delete user"
+    }
+  ],
+  "label.delete-website": [
+    {
+      "type": 0,
+      "value": "웹사이트 삭제"
+    }
+  ],
+  "label.desktop": [
+    {
+      "type": 0,
+      "value": "데스크탑"
+    }
+  ],
+  "label.details": [
+    {
+      "type": 0,
+      "value": "Details"
+    }
+  ],
+  "label.devices": [
+    {
+      "type": 0,
+      "value": "기기"
+    }
+  ],
+  "label.dismiss": [
+    {
+      "type": 0,
+      "value": "무시하기"
+    }
+  ],
+  "label.domain": [
+    {
+      "type": 0,
+      "value": "도메인"
+    }
+  ],
+  "label.edit": [
+    {
+      "type": 0,
+      "value": "편집"
+    }
+  ],
+  "label.edit-dashboard": [
+    {
+      "type": 0,
+      "value": "Edit dashboard"
+    }
+  ],
+  "label.enable-share-url": [
+    {
+      "type": 0,
+      "value": "URL 공유 활성화"
+    }
+  ],
+  "label.events": [
+    {
+      "type": 0,
+      "value": "이벤트"
+    }
+  ],
+  "label.filter-combined": [
+    {
+      "type": 0,
+      "value": "합쳐서 보기"
+    }
+  ],
+  "label.filter-raw": [
+    {
+      "type": 0,
+      "value": "전체 보기"
+    }
+  ],
+  "label.join": [
+    {
+      "type": 0,
+      "value": "Join"
+    }
+  ],
+  "label.join-team": [
+    {
+      "type": 0,
+      "value": "Join team"
+    }
+  ],
+  "label.language": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
+  "label.languages": [
+    {
+      "type": 0,
+      "value": "Languages"
+    }
+  ],
+  "label.laptop": [
+    {
+      "type": 0,
+      "value": "노트북"
+    }
+  ],
+  "label.last-days": [
+    {
+      "type": 0,
+      "value": "최근 "
+    },
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": " 일간"
+    }
+  ],
+  "label.last-hours": [
+    {
+      "type": 0,
+      "value": "최근 "
+    },
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": " 시간"
+    }
+  ],
+  "label.leave": [
+    {
+      "type": 0,
+      "value": "Leave"
+    }
+  ],
+  "label.leave-team": [
+    {
+      "type": 0,
+      "value": "Leave team"
+    }
+  ],
+  "label.login": [
+    {
+      "type": 0,
+      "value": "로그인"
+    }
+  ],
+  "label.logout": [
+    {
+      "type": 0,
+      "value": "로그아웃"
+    }
+  ],
+  "label.members": [
+    {
+      "type": 0,
+      "value": "Members"
+    }
+  ],
+  "label.mobile": [
+    {
+      "type": 0,
+      "value": "모바일"
+    }
+  ],
+  "label.more": [
+    {
+      "type": 0,
+      "value": "더 보기"
+    }
+  ],
+  "label.name": [
+    {
+      "type": 0,
+      "value": "이름"
+    }
+  ],
+  "label.new-password": [
+    {
+      "type": 0,
+      "value": "새 비밀번호"
+    }
+  ],
+  "label.none": [
+    {
+      "type": 0,
+      "value": "None"
+    }
+  ],
+  "label.operating-systems": [
+    {
+      "type": 0,
+      "value": "운영체제"
+    }
+  ],
+  "label.owner": [
+    {
+      "type": 0,
+      "value": "Owner"
+    }
+  ],
+  "label.page-views": [
+    {
+      "type": 0,
+      "value": "페이지 뷰(PV)"
+    }
+  ],
+  "label.pages": [
+    {
+      "type": 0,
+      "value": "페이지"
+    }
+  ],
+  "label.password": [
+    {
+      "type": 0,
+      "value": "비밀번호"
+    }
+  ],
+  "label.powered-by": [
+    {
+      "type": 0,
+      "value": "이 시스템은 "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    },
+    {
+      "type": 0,
+      "value": "에서 구동되고 있습니다."
+    }
+  ],
+  "label.profile": [
+    {
+      "type": 0,
+      "value": "프로필"
+    }
+  ],
+  "label.queries": [
+    {
+      "type": 0,
+      "value": "Queries"
+    }
+  ],
+  "label.query-parameters": [
+    {
+      "type": 0,
+      "value": "Query parameters"
+    }
+  ],
+  "label.realtime": [
+    {
+      "type": 0,
+      "value": "실시간"
+    }
+  ],
+  "label.referrers": [
+    {
+      "type": 0,
+      "value": "리퍼러"
+    }
+  ],
+  "label.refresh": [
+    {
+      "type": 0,
+      "value": "새로고침"
+    }
+  ],
+  "label.regenerate": [
+    {
+      "type": 0,
+      "value": "Regenerate"
+    }
+  ],
+  "label.regions": [
+    {
+      "type": 0,
+      "value": "Regions"
+    }
+  ],
+  "label.remove": [
+    {
+      "type": 0,
+      "value": "Remove"
+    }
+  ],
+  "label.required": [
+    {
+      "type": 0,
+      "value": "필수"
+    }
+  ],
+  "label.reset": [
+    {
+      "type": 0,
+      "value": "리셋"
+    }
+  ],
+  "label.reset-website": [
+    {
+      "type": 0,
+      "value": "Reset statistics"
+    }
+  ],
+  "label.role": [
+    {
+      "type": 0,
+      "value": "Role"
+    }
+  ],
+  "label.save": [
+    {
+      "type": 0,
+      "value": "저장"
+    }
+  ],
+  "label.screens": [
+    {
+      "type": 0,
+      "value": "Screens"
+    }
+  ],
+  "label.select-website": [
+    {
+      "type": 0,
+      "value": "Select website"
+    }
+  ],
+  "label.sessions": [
+    {
+      "type": 0,
+      "value": "Sessions"
+    }
+  ],
+  "label.settings": [
+    {
+      "type": 0,
+      "value": "설정"
+    }
+  ],
+  "label.share-url": [
+    {
+      "type": 0,
+      "value": "공유 URL"
+    }
+  ],
+  "label.single-day": [
+    {
+      "type": 0,
+      "value": "하루"
+    }
+  ],
+  "label.tablet": [
+    {
+      "type": 0,
+      "value": "태블릿"
+    }
+  ],
+  "label.team": [
+    {
+      "type": 0,
+      "value": "Team"
+    }
+  ],
+  "label.team-guest": [
+    {
+      "type": 0,
+      "value": "Team guest"
+    }
+  ],
+  "label.team-id": [
+    {
+      "type": 0,
+      "value": "Team ID"
+    }
+  ],
+  "label.team-member": [
+    {
+      "type": 0,
+      "value": "Team member"
+    }
+  ],
+  "label.team-owner": [
+    {
+      "type": 0,
+      "value": "Team owner"
+    }
+  ],
+  "label.teams": [
+    {
+      "type": 0,
+      "value": "Teams"
+    }
+  ],
+  "label.theme": [
+    {
+      "type": 0,
+      "value": "Theme"
+    }
+  ],
+  "label.this-month": [
+    {
+      "type": 0,
+      "value": "이번 달"
+    }
+  ],
+  "label.this-week": [
+    {
+      "type": 0,
+      "value": "이번 주"
+    }
+  ],
+  "label.this-year": [
+    {
+      "type": 0,
+      "value": "올해"
+    }
+  ],
+  "label.timezone": [
+    {
+      "type": 0,
+      "value": "표준 시간대"
+    }
+  ],
+  "label.title": [
+    {
+      "type": 0,
+      "value": "Title"
+    }
+  ],
+  "label.today": [
+    {
+      "type": 0,
+      "value": "오늘"
+    }
+  ],
+  "label.toggle-charts": [
+    {
+      "type": 0,
+      "value": "Toggle charts"
+    }
+  ],
+  "label.tracking-code": [
+    {
+      "type": 0,
+      "value": "추적 코드"
+    }
+  ],
+  "label.unique-visitors": [
+    {
+      "type": 0,
+      "value": "순방문자(UV)"
+    }
+  ],
+  "label.unknown": [
+    {
+      "type": 0,
+      "value": "알 수 없음"
+    }
+  ],
+  "label.user": [
+    {
+      "type": 0,
+      "value": "User"
+    }
+  ],
+  "label.username": [
+    {
+      "type": 0,
+      "value": "사용자명"
+    }
+  ],
+  "label.users": [
+    {
+      "type": 0,
+      "value": "Users"
+    }
+  ],
+  "label.view": [
+    {
+      "type": 0,
+      "value": "View"
+    }
+  ],
+  "label.view-details": [
+    {
+      "type": 0,
+      "value": "상세보기"
+    }
+  ],
+  "label.views": [
+    {
+      "type": 0,
+      "value": "조회수"
+    }
+  ],
+  "label.visitors": [
+    {
+      "type": 0,
+      "value": "방문객"
+    }
+  ],
+  "label.website-id": [
+    {
+      "type": 0,
+      "value": "Website ID"
+    }
+  ],
+  "label.websites": [
+    {
+      "type": 0,
+      "value": "웹사이트"
+    }
+  ],
+  "label.yesterday": [
+    {
+      "type": 0,
+      "value": "Yesterday"
+    }
+  ],
+  "message.active-users": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": "명의 사용자가 보는 중입니다."
+    }
+  ],
+  "message.confirm-delete": [
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": "을(를) 삭제하시겠습니까?"
+    }
+  ],
+  "message.confirm-leave": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to leave "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": "?"
+    }
+  ],
+  "message.confirm-reset": [
+    {
+      "type": 0,
+      "value": "Are your sure you want to reset "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": "'s statistics?"
+    }
+  ],
+  "message.delete-website": [
+    {
+      "type": 0,
+      "value": "웹사이트 삭제"
+    }
+  ],
+  "message.delete-website-warning": [
+    {
+      "type": 0,
+      "value": "관련된 모든 데이터도 삭제됩니다."
+    }
+  ],
+  "message.error": [
+    {
+      "type": 0,
+      "value": "오류가 발생하였습니다."
+    }
+  ],
+  "message.event-log": [
+    {
+      "type": 1,
+      "value": "event"
+    },
+    {
+      "type": 0,
+      "value": " on "
+    },
+    {
+      "type": 1,
+      "value": "url"
+    }
+  ],
+  "message.go-to-settings": [
+    {
+      "type": 0,
+      "value": "설정으로 이동"
+    }
+  ],
+  "message.incorrect-username-password": [
+    {
+      "type": 0,
+      "value": "사용자 이름/비밀번호가 잘못되었습니다.."
+    }
+  ],
+  "message.invalid-domain": [
+    {
+      "type": 0,
+      "value": "잘못된 도메인"
+    }
+  ],
+  "message.min-password-length": [
+    {
+      "type": 0,
+      "value": "Minimum length of "
+    },
+    {
+      "type": 1,
+      "value": "n"
+    },
+    {
+      "type": 0,
+      "value": " characters"
+    }
+  ],
+  "message.no-data-available": [
+    {
+      "type": 0,
+      "value": "사용 가능한 데이터가 없습니다."
+    }
+  ],
+  "message.no-match-password": [
+    {
+      "type": 0,
+      "value": "비밀번호가 일치하지 않음"
+    }
+  ],
+  "message.no-teams": [
+    {
+      "type": 0,
+      "value": "You have not created any teams."
+    }
+  ],
+  "message.no-users": [
+    {
+      "type": 0,
+      "value": "There are no users."
+    }
+  ],
+  "message.page-not-found": [
+    {
+      "type": 0,
+      "value": "페이지를 찾을 수 없습니다."
+    }
+  ],
+  "message.reset-website": [
+    {
+      "type": 0,
+      "value": "Reset statistics"
+    }
+  ],
+  "message.reset-website-warning": [
+    {
+      "type": 0,
+      "value": "All statistics for this website will be deleted, but your tracking code will remain intact."
+    }
+  ],
+  "message.saved": [
+    {
+      "type": 0,
+      "value": "성공적으로 저장되었습니다."
+    }
+  ],
+  "message.share-url": [
+    {
+      "type": 0,
+      "value": "이것은 "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": "의 공개적으로 공유된 URL입니다."
+    }
+  ],
+  "message.team-already-member": [
+    {
+      "type": 0,
+      "value": "You are already a member of the team."
+    }
+  ],
+  "message.team-not-found": [
+    {
+      "type": 0,
+      "value": "Team not found."
+    }
+  ],
+  "message.tracking-code": [
+    {
+      "type": 0,
+      "value": "추적 코드"
+    }
+  ],
+  "message.user-deleted": [
+    {
+      "type": 0,
+      "value": "User deleted."
+    }
+  ],
+  "message.visitor-log": [
+    {
+      "type": 1,
+      "value": "os"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "device"
+    },
+    {
+      "type": 0,
+      "value": "에서 "
+    },
+    {
+      "type": 1,
+      "value": "browser"
+    },
+    {
+      "type": 0,
+      "value": "을(를) 사용하는 "
+    },
+    {
+      "type": 1,
+      "value": "country"
+    },
+    {
+      "type": 0,
+      "value": "의 방문자"
+    }
+  ],
+  "messages.no-team-websites": [
+    {
+      "type": 0,
+      "value": "This team does not have any websites."
+    }
+  ],
+  "messages.no-websites-configured": [
+    {
+      "type": 0,
+      "value": "구성된 웹 사이트가 없습니다."
+    }
+  ],
+  "messages.team-websites-info": [
+    {
+      "type": 0,
+      "value": "Websites can be viewed by anyone on the team."
+    }
+  ]
+}

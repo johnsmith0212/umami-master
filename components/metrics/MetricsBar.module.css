@@ -1,0 +1,17 @@
+.bar {
+  display: flex;
+  cursor: pointer;
+  min-height: 80px;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  justify-self: flex-start;
+}
+
+@media only screen and (max-width: 992px) {
+  .card {
+    flex-basis: calc(50% - 20px);
+  }
+}
